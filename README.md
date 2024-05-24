@@ -17,6 +17,8 @@ The Chat Application is a web-based platform designed to facilitate real-time co
 
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+🖍 [Link](https://www.figma.com/file/aSMMy4O1WEbDAv2ZdyVN8y/Chat-APP-Archi-and-UI?type=design&node-id=0-1&mode=design&t=NRuXhIPibESQRjxA-0)
+
 
 ## 📬 Contact
 
